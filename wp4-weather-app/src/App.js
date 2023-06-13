@@ -20,8 +20,17 @@ function App() {
       </div>
       </div>
       <div className="bottom"></div>
+        <div className='gevoelstemperatuur'>
+          <p>32°C</p>
+        </div>
+        <div className='luchtvochtigheid'>
+          <p>34%</p>
+        <div className='wind'>
+          <p>30km/h</p>
+        </div>
       </div>
     </div>  
+  </div>
   );
 }
 
